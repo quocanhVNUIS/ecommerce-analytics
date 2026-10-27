@@ -65,6 +65,6 @@ Dự án được xây dựng trên nền tảng Python với các thư viện c
 
 ---
 
-*Dự án được thực hiện bởi Tu Nguyen - Lead Xóm Data (Hanoi 2026)* 🖋️
+
 
 
